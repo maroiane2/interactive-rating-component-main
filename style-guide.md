@@ -15,7 +15,7 @@ The designs were created to the following widths:
 
 ### Neutral
 
-- White: hsl(0, 0%, 100%)
+- White: hsl(0, 0%, 100%) text
 - Light Grey: hsl(217, 12%, 63%)
 - Medium Grey: hsl(216, 12%, 54%)
 - Dark Blue: hsl(213, 19%, 18%)
